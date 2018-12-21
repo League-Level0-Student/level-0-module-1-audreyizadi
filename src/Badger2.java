@@ -19,10 +19,13 @@ public class Badger2 {
 			
 			
 			}
-			System.out.println();
-		
-		}
+			System.out.println(); 
 		
 	}
+		for (int e = 0; e < 4; e++) {
 
-}
+			System.out.print("Snake, ");
+
+		}
+
+	}}
